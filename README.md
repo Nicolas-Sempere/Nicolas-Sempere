@@ -50,10 +50,11 @@ You can connect with me on [LinkedIn](www.linkedin.com/in/nicolas-sempéré-8541
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
 ---
 
 Thank you for visiting my GitHub profile!
 Your feedback and contributions are always welcome.
-Have a great day! :)
+Have a great day! 😎
