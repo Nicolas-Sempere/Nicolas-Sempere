@@ -10,7 +10,7 @@ When I'm not coding, you'll often find me tackling Cybersecurity challenges (CTF
 
 Here are some of the projects I'm proud of:
 
-1. **[OptiFactory](Link to the repository)**
+1. **[OptiFactory](https://github.com/Nicolas-Sempere/opti-factory)**
    - **Description:** Efficient production planning for Satisfactory: Minimize power, machines, and complexity with Python and PlantUML
    - **Technologies Used:** Python and PlantUML
    - **Key Features:** Minimization of power consumption and number of machines - Computations with Python - Visualization with PlantUML
