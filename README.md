@@ -2,7 +2,6 @@
 
 I'm Nicolas Sempéré, an engineer with a love for problem-solving using computers.
 My primary coding interests include languages like Python, Java, C, C++, and Rust.
-When I'm not coding, you'll often find me tackling Cybersecurity challenges (CTFs), trying to find vulnerabilities in computer systems.
 
 ---
 
@@ -14,15 +13,6 @@ Here are some of the projects I'm proud of:
    - **Description:** Efficient production planning for Satisfactory: Minimize power, machines, and complexity with Python and PlantUML
    - **Technologies Used:** Python and PlantUML
    - **Key Features:** Minimization of power consumption and number of machines - Computations with Python - Visualization with PlantUML
-
----
-
-## 🌱 What I'm Currently Learning 🔭
-
-I'm always eager to expand my knowledge. Right now, I'm diving into:
-
-- Advanced Cryptology
-- Low level Programming: C, C++ and Rust
 
 ---
 
@@ -49,9 +39,9 @@ You can connect with me on [LinkedIn](www.linkedin.com/in/nicolas-sempéré-8541
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Sempere&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Sempere&layout=compact&theme=radical)
 
 ---
 
