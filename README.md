@@ -33,8 +33,6 @@ I'm always open to collaboration, learning, and sharing ideas. Feel free to reac
 - Collaborate on a project
 - Discuss new ideas
 
-You can connect with me on [LinkedIn](www.linkedin.com/in/nicolas-sempéré-854143227).
-
 ---
 
 ## 📊 GitHub Stats
